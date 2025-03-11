@@ -27,10 +27,15 @@
     text-align: center;
   }
 
-  p{
+  p1{
     font-family: 'Russo One';
     font-size: 1.5rem;
     text-align: center;
+  }
+  p2{
+    font-family: 'Russo One';
+    font-size: 1.5rem;
+    text-align: left;
   }
   ul{
     font-family: 'Russo One';
