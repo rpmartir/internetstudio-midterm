@@ -1,6 +1,6 @@
 * {
-    padding: 12px;
-    margin: 14px;
+    padding: 0;
+    margin: 0;
   }
 
   body {
@@ -10,8 +10,8 @@
 
   .cssBackgroundImg {
     background-image: url(../internetstudio-midterm/picture.jpg);
-    width: 436px;
-    height: 322px;
+    width: 424px;
+    height: 310px;
     margin: 32px auto;
   }
 
