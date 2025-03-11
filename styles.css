@@ -19,12 +19,6 @@
     margin: 96px auto;
   }
 
-  @font-face {
-    font-family: "Futura Press";
-    src: url(FUTURAPR.woff) format("woff"),
-         url(FUTURAPR.ttf)  format("truetype");
-  }
-
   }
   h1 {
     color: rgb(23, 25, 134);
