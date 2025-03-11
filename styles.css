@@ -8,6 +8,13 @@
     background-color: #ffd7e2;
   }
 
+  .cssBackgroundImg {
+    background-image: url(../internetstudio-midterm/IMG_8501.JPG);
+    width: 448px;
+    height: 336px;
+    margin: 12px auto;
+  }
+
   .text {
     display: block;
     width: 50%;
