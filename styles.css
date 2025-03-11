@@ -1,6 +1,6 @@
 * {
-    padding: 35;
-    margin: 0;
+    padding: 105;
+    margin: 140;
   }
 
   body {
@@ -18,10 +18,17 @@
     font-weight: 400;
     font-style: normal;
   }
+
   h1 {
     font-family: 'Russo One';
-    color: rgb(23, 25, 134);
+    color: rgb(44, 47, 205);
     font-size: 5rem;
+    text-align: center;
+  }
+  
+  p{
+    color: rgb(23, 25, 134);
+    font-size: 1rem;
     text-align: center;
   }
   .bebas-neue-regular {
