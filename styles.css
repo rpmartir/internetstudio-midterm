@@ -14,6 +14,11 @@
     margin: 96px auto;
   }
 
+  .bebas-neue-regular {
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
   @font-face {
     font-family: "Futura Press";
     src: url(FUTURAPR.woff) format("woff"),
@@ -48,10 +53,4 @@
   
   h3 a:hover {
     color: white;
-  }
-
-  .bebas-neue-regular {
-    font-family: "Bebas Neue", sans-serif;
-    font-weight: 400;
-    font-style: normal;
   }
