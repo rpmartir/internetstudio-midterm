@@ -10,10 +10,9 @@
 
   .cssBackgroundImg {
     background-image: url(../internetstudio-midterm/picture.jpg);
-    width: 448px;
-    height: 336px;
-    padding: -12px;
-    margin: -14px;
+    width: 436px;
+    height: 322px;
+    margin: 32px auto;
   }
 
   .text {
